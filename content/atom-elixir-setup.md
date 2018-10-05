@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Atom Editor Setup for Elixir"
-date: 2018-10-02 10:02:41 -0700
+date: '2018-02-05 10:02:41 -0700'
 comments: true
-categories: ["elixir", "atom"]
+categories: ['elixir', 'atom']
 published: true
 ---
 When working with Elixir, I want the following support from my editor:
-
 - Elixir syntax highlighting
 - Compiler errors and warnings displayed when I'm editing Elixir code
 - Automatic Elixir code formatting when I save a file
