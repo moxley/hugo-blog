@@ -1,0 +1,4 @@
+baseURL = "http://www.moxleystratton.com/"
+languageCode = "en-us"
+title = "Moxley Stratton"
+theme = "story"
