@@ -2,3 +2,9 @@ baseURL = "http://www.moxleystratton.com/"
 languageCode = "en-us"
 title = "Moxley Stratton"
 theme = "story"
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
