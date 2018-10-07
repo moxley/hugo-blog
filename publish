@@ -1,0 +1,7 @@
+#!/bin/bash -e
+
+date=`date -u +"%Y-%m-%dT%H:%M:%SZ"`
+cd ./publish
+git add .
+git commit -m "publish ${date}"
+git push

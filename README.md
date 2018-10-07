@@ -18,3 +18,9 @@ Generate site files (quit server first):
 ```shell
 hugo
 ```
+
+Publish:
+
+```shell
+./publish
+```
