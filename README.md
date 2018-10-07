@@ -13,7 +13,7 @@ Start server:
 hugo server -D
 ```
 
-Generate site files:
+Generate site files (quit server first):
 
 ```shell
 hugo
