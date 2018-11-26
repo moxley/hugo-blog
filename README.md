@@ -22,5 +22,5 @@ hugo
 Publish:
 
 ```shell
-./publish
+hugo && ./publish
 ```
