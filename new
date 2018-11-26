@@ -1,0 +1,12 @@
+#!/bin/bash -e
+
+cat > content/new-post.md <<EOF
+---
+layout: post
+title: "New Post"
+date: '`date -u +"%Y-%m-%dT%H:%M:%SZ"`'
+comments: true
+categories: []
+published: true
+---
+EOF
