@@ -36,7 +36,7 @@ a very simple neural network.
 
 Defined as a user story:
 
-* As a Tensorflow programmer
+* As a TensorFlow programmer
 * I want the ability to read a model's parameters during training
 * So that I can visualize them
 
