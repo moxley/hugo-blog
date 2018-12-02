@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visualizing Neuron Weights with Tensorflow"
+title: "Visualizing Neuron Weights During Training"
 date: '2018-11-26T03:49:14Z'
 comments: true
 categories: ["tensorflow"]
