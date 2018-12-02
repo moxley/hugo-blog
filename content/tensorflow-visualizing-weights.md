@@ -51,7 +51,6 @@ First, import the necessary dependencies:
 ```python
 import tensorflow as tf
 from tensorflow import keras
-from tensorflow.contrib import eager as tfe
 import numpy as np
 import matplotlib.pyplot as plt
 ```
